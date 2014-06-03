@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"			"TTT Ranks"
+	"version"		"1.0"
+	"up_date"		"2014-06-03"
+	"author_name"		"Domos"
+	"author_email"		"dombrady1993@gmail.com"
+	"author_url"		"http://domos.me.uk"
+	"info"			"Adds ranks to TTT scoreboard and chat"
+	"override"		"0"
+}
